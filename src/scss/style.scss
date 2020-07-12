@@ -1,0 +1,27 @@
+@import "normalize";
+@import "components";
+@import "search-form";
+@import "search-results";
+@import "filter-head";
+
+
+//font-family: 'Open Sans', sans-serif;
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+
+.header-site {
+  width: 100%;
+  height: 100px;
+  background-color: black;
+  color: white;
+}
+
+.header-title {
+  margin: 0;
+  padding-top: 40px;
+  font-size: 14px;
+}
+
